@@ -1,5 +1,5 @@
 # Catch The Sausage Game
-A simple game based on osu!catch concept. To run the game make sure
+A simple game based on osu!catch concept
 ## Run
 To run the game, you simply need to run the main.py file. 
 To run the game from the console simply execute:
